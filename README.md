@@ -35,7 +35,7 @@ GitHub Pages (for hosting)
 
 Live Website
 
-file:///C:/Users/HP/OneDrive/Desktop/phishing_awareness/index.html
+https://phishingaware.netlify.app/
 
 Quiz Link
 
